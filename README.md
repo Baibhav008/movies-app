@@ -1,6 +1,6 @@
 MOVIES APP
 Android Application to get information about movies.
-
+ 
 Movie details were fetched via API using Volley.
 Languages : JAVA , XML
 Software :  Android Studios
